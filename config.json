@@ -68,7 +68,7 @@
                             },
                             "to": [
                                 {
-                                    "key_code": "left_shift"
+                                    "key_code": "left_control"
                                 }
                             ]
                         },
@@ -78,7 +78,7 @@
                             },
                             "to": [
                                 {
-                                    "key_code": "left_shift"
+                                    "key_code": "left_control"
                                 }
                             ]
                         },
@@ -88,7 +88,7 @@
                             },
                             "to": [
                                 {
-                                    "key_code": "left_shift"
+                                    "key_code": "left_option"
                                 }
                             ]
                         },
@@ -98,7 +98,7 @@
                             },
                             "to": [
                                 {
-                                    "key_code": "left_shift"
+                                    "key_code": "left_option"
                                 }
                             ]
                         },
